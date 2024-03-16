@@ -2,7 +2,7 @@ Effect of Vitamin D modulation on TH2 cell function
 - 
 
 - Result 1: VDAART cohort analysis
-  1. Preprocess_data.ipynb - Preprocess VDAART data to generate counts and meta data.  
+  - Preprocess_data.ipynb - Preprocess VDAART data to generate counts and meta data.  
   2. Normalize_data.ipynb - Normalize counts data to prepare for clustering based on VDR signaling genes.
   3. extract_vdr_genes.py - Extract VDR pathway genes from AMIGO2 and WikiPathways.  
   4. Cluster_VitD.ipynb -	Cluster counts data based on VDR pathway genes.  				 
