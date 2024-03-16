@@ -1,0 +1,43 @@
+targets, factors
+TCR, tmp
+Input, 1
+VitD, Input & !Calcitroic
+ZAP70, TCR
+p38, ZAP70
+VDR, p38 | VitD
+VDRact, VitD & VDR
+RXRA, VDRact
+VDR:RXRA, VDRact & RXRA
+Blimp1, VDR:RXRA
+Il10, Blimp1
+Cyp24a1, VDR:RXRA | 1
+Ctla4, VDR:RXRA
+PMCA, VDR:RXRA 
+Plcg1, VDR:RXRA | ZAP70
+PIP2, Plcg1
+Calcitroic, Input & Cyp24a1 
+IP3, PIP2 & Plcg1
+DAG, PIP2 & Plcg1
+CA2, IP3 & !PMCA
+PTH, VDR:RXRA & !CA2 & PMCA
+PKC, DAG & CALM1
+NFKB, PKC
+CREB, PKC
+CALM1, CA2
+CAMKII, CALM1
+AP1, CAMKII
+NFAT, CAMKII
+IL5, NFKB | AP1 | NFAT | CREB
+IL4, NFKB | AP1 | NFAT | CREB
+IL2, NFKB | AP1 | NFAT | CREB
+tmp, !t1
+t1, t2
+t2, !t3
+t3, tmp
+
+
+
+
+
+
+
