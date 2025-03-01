@@ -3,9 +3,8 @@
 If you use this repository, please cite the following article:
 
 > **Vrushali D. Fangal, Ayşe Kılıç, Hooman Mirzakhani, Augusto A. Litonjua, Marie B. Demay, Bruce D. Levy, Scott T. Weiss.**  
-> "Vitamin D Exerts Endogenous Control over TH2 Cell Fate and Immune Plasticity."  
-> *iScience*, 2025, 112117.  
-> [DOI: 10.1016/j.isci.2025.112117](https://doi.org/10.1016/j.isci.2025.112117)  
+> "Vitamin D Exerts Endogenous Control over T<sub>H</sub>2 Cell Fate and Immune Plasticity."  
+> *iScience*, 2025, 112117. [DOI: 10.1016/j.isci.2025.112117](https://doi.org/10.1016/j.isci.2025.112117)  
 > [Read online](https://www.sciencedirect.com/science/article/pii/S2589004225003773)  
 
 
