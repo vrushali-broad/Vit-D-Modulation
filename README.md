@@ -1,3 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following article:"
+authors:
+  - family-names: "Fangal"
+    given-names: "Vrushali D."
+  - family-names: "Kılıç"
+    given-names: "Ayşe"
+  - family-names: "Mirzakhani"
+    given-names: "Hooman"
+  - family-names: "Litonjua"
+    given-names: "Augusto A."
+  - family-names: "Demay"
+    given-names: "Marie B."
+  - family-names: "Levy"
+    given-names: "Bruce D."
+  - family-names: "Weiss"
+    given-names: "Scott T."
+title: "Vitamin D Exerts Endogenous Control over TH2 Cell Fate and Immune Plasticity"
+version: "2025"
+doi: "10.1016/j.isci.2025.112117"
+date-released: "2025-XX-XX"
+url: "https://www.sciencedirect.com/science/article/pii/S2589004225003773"
+journal: "iScience"
+volume: "2025"
+issn: "2589-0042"
+keywords:
+  - Vitamin D
+  - Vitamin D Receptor (VDR) signaling
+  - TH2 cell plasticity
+  - Calcium ion homeostasis
+  - Cytotoxic phenotype
+  - Immune modulation
+  - Asthma pathogenesis
+  - Autoimmune diseases
+
+
 Effect of Vitamin D modulation on TH2 cell function 
 - 
 
