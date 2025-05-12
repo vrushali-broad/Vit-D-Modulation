@@ -1,7 +1,12 @@
 ## 📜 Citation
 
+<p align="center">
+  <img src="assets/cover.tif.jpg" alt="Vitamin D and TH2 Cell Plasticity Cover" width="80%">
+</p>
+
 If you use this repository, please cite the following article:
 
+**Cover Article**  
 > **Vrushali D. Fangal, Ayşe Kılıç, Hooman Mirzakhani, Augusto A. Litonjua, Marie B. Demay, Bruce D. Levy, Scott T. Weiss**  
 > *Vitamin D Exerts Endogenous Control over T<sub>H</sub>2 Cell Fate and Immune Plasticity.*  
 > *iScience*, Volume 28, Issue 4, 18 April 2025, Article 112117. ISSN: 2589-0042.  
